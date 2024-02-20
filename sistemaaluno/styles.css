@@ -1,0 +1,95 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(238, 118, 118);
+}
+
+header > img {
+    height: 80px;
+    width: 90px;
+
+}
+header > nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+}
+
+header nav > a:link{
+    text-decoration: none;
+}
+
+header nav > a:hover{ 
+    color: red;
+
+}
+.main {
+    height: 400px;
+}
+
+.main > section{
+    background-color: rgb(243, 74, 74);
+    flex: 4;
+}
+
+.main > aside{
+    background-color: rgb(127, 139, 206);
+    flex: 1;
+
+}
+
+.box1{
+    background-color: rgb(245, 219, 188);
+
+}
+.box2{
+    background-color: rgb(218, 187, 187);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  footer {
+    background-color: rgb(243, 123, 123);
+    height: 120px;
+   
+}
+
