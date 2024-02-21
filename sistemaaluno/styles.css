@@ -34,14 +34,14 @@ header nav > a:hover{
 }
 
 .main > aside{
-    background-color: rgb(127, 139, 206);
+    background-color: rgba(206, 127, 127, 0.466);
     flex: 1;
 
 }
 
 .box1{
-    background-color: rgb(245, 219, 188);
-
+    background-color: rgb(207, 228, 87);
+    
 }
 .box2{
     background-color: rgb(218, 187, 187);
