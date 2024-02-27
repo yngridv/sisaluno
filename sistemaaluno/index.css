@@ -16,9 +16,8 @@ header > nav {
     width: 500px;
 }
 
-header nav > a {
+header nav > a:link{
     text-decoration: none;
-
 }
 
 header nav > a:hover{ 
@@ -26,17 +25,13 @@ header nav > a:hover{
 
 }
 .main {
+    height: 400px;
     display: flex;
-    height: 500px;
-    
-   
 }
 
 .main > section{
     background-color: rgb(243, 74, 74);
     flex: 4;
-    height: 900px;
-    
 }
 
 .main > aside{
@@ -45,59 +40,10 @@ header nav > a:hover{
 
 }
 
-.principal> name {
-    width: 50px;
-}
-.box1{
-    background-color: rgb(207, 228, 87);
-    
-}
-.box2{
-    background-color: rgb(218, 187, 187);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  footer {
+footer {
     background-color: rgb(243, 123, 123);
-    height: 120px;
-   
-}
+    height: 100px;
+    display: flex;
+  
+  }
 
