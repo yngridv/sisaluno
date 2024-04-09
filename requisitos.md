@@ -6,11 +6,11 @@
  Pagína aluno: 
 - Aumentar o tamanho da imagem e deixar ela do mesmo tamanho das outras paginas; 
 - Organizar layout do cadastro do aluno;
-- Trocar a  cor dos botões;
+- Trocar a  cor dos botões do titulo;
 
  Professor:
 - Modificar a proporção do tamanho do layout;
-- Organizar os botões e dar espaçamento;
+- Organizar os botões do titulo e dar espaçamento;
 
  Home:
 - Alterar cor do layout (lado);
