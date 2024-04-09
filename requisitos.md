@@ -1,6 +1,6 @@
-#Requisitos 
+# Requisitos 
 
-Pagína aluno: 
+# Pagína aluno: 
 Aumentar o tamanho da imagem e deixar ela do mesmo tamanho das outras paginas; 
 Organizar o formulario;
 
